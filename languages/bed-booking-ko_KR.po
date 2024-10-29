@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "예약 시스템"
+
+msgid "BBO_2891_type_one"
+msgstr "캘린더-모든 객실"
+
+msgid "BBO_2891_type_three"
+msgstr "방 하나"
+
+msgid "BBO_2891_type_two"
+msgstr "모든 방"
+
+msgid "BBO_963_select_room"
+msgstr "방을 선택하십시오"
+
+msgid "BED_2188_add_details"
+msgstr "<a href=\"https://app.bed-booking.com/login\">BedBooking 응용 프로그램</a> 에서 속성 세부 정보를 추가하십시오."
+
+msgid "BED_2188_add_details_body"
+msgstr "예약 시스템은 <a href=\"https://app.bed-booking.com/login\">BedBooking 애플리케이션을</a> 통해 구성됩니다."
+
+msgid "BED_2188_add_details_body_2"
+msgstr "예약 시스템을 시작하려면 사진이나 객실 가격과 같은 시설 세부 정보를 추가하기만 하면 됩니다. 시설의 로고를 업로드하거나 예약 시스템의 메인 색상을 선택할 수도 있습니다."
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking - 예약 시스템 및 예약 캘린더"
+
+msgid "BED_2188_block_info"
+msgstr "예약 시스템은 BedBooking 애플리케이션을</a> 통해 구성됩니다."
+
+msgid "BED_2188_connect_account"
+msgstr "BedBooking 계정을 WordPress에 연결하십시오."
+
+msgid "BED_2188_correct_title"
+msgstr "이제 웹사이트에 위젯 블록을 추가할 수 있습니다!"
+
+msgid "BED_2188_create_account_body"
+msgstr "BedBooking 사용을 시작하려면 Android 또는 iOS용 애플리케이션을 다운로드하십시오. BedBooking도에서 웹 브라우저에서 사용할 수 <a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a> ."
+
+msgid "BED_2188_create_account_title"
+msgstr "BedBooking 계정을 만드십시오."
+
+msgid "BED_2188_disconnect_account"
+msgstr "WordPress에서 BedBooking 계정 연결을 끊습니다."
+
+msgid "BED_2188_error_no_premium"
+msgstr "<a href=\"https://panel.bed-booking.com/payment/buy\">BedBooking 애플리케이션</a> 으로 이동하여 프리미엄 패키지를 확장하고 예약 시스템에 액세스하십시오."
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "<span style=\"color: #73B144;\">wordpress5</span> 할인 코드를 사용하여 프리미엄 패키지의 가격을 낮추십시오!"
+
+msgid "BED_2188_error_outcome"
+msgstr "<a href=\"https://app.bed-booking.com/login\">BedBooking 애플리케이션</a> 으로 이동하여 예약 시스템을 구성하십시오."
+
+msgid "BED_2188_error_title"
+msgstr "예약 시스템을 사용할 수 없습니다."
+
+msgid "BED_2188_how_to_connect"
+msgstr "BedBooking 예약 시스템을 웹사이트와 통합하는 방법은 무엇입니까?"
+
+msgid "BED_2188_login_body"
+msgstr "아래 로그인 버튼을 사용하여 BedBooking 계정을 WordPress 플러그인과 연결하십시오."
+
+msgid "BED_2188_login_body_2"
+msgstr "로그인 후 매우 직관적인 방식으로 예약 시스템 위젯을 웹사이트에 블록으로 추가할 수 있습니다."
+
+msgid "BED_2188_login_title"
+msgstr "WordPress에 로그인하고 웹사이트에 위젯을 추가합니다."
+
+msgid "BED_2188_logout"
+msgstr "로그 아웃"
+
+msgid "BED_2188_plugin_description"
+msgstr "BedBooking은 휴대폰, 태블릿 또는 컴퓨터를 모바일 리셉션 데스크로 사용할 수 있는 가장 현대적인 도구입니다."
+
+msgid "BED_2188_plugin_description_2"
+msgstr "예약 시스템을 사용하면 인터넷을 통해 직접 서비스를 판매할 수 있습니다."
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "BedBooking은 휴대폰, 태블릿 또는 컴퓨터를 모바일 예약 캘린더로 사용할 수 있는 가장 현대적인 도구입니다. 예약 시스템을 사용하면 인터넷을 통해 직접 숙박 시설을 판매할 수 있습니다."
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "몇 분 안에 시스템을 시작할 수 있습니다. "
+
+msgid "BED_2205_store_description"
+msgstr "BedBooking 예약 시스템은 인터넷을 통해 직접 서비스를 판매할 수 있는 혁신적인 도구입니다."
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "확인"
+
+msgid "log_in"
+msgstr "로그인"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "플로팅(화면의 한 위치에 위치) - 검색 양식의 위치는 페이지 스크롤에 의존하지 않으며 항상 브라우저 창의 아래쪽 가장자리에 있습니다."
+
+msgid "OUT_3983_floating_position_name"
+msgstr "플로팅(화면의 한 위치에 위치)"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "검색 양식 배치 유형"
+
+msgid "OUT_3983_static_position_description"
+msgstr "정적(웹사이트의 특정 위치) - 검색 양식의 위치는 페이지 코드에 붙여넣은 코드의 위치에 따라 다르며 페이지 콘텐츠의 영구적인 위치입니다."
+
+msgid "OUT_3983_static_position_name"
+msgstr "정적(웹사이트의 특정 위치)"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "수수료나 추가 비용 없이 숙박 시설을 판매할 수 있습니다."
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "이메일, SMS 또는 소셜 미디어를 통해 공유할 수 있습니다."
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "손님은 언제 어디서나 숙박을 예약할 수 있습니다."
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "위젯을 사용하여 자신의 웹사이트를 예약 시스템에 연결할 수 있습니다."
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "오늘 나만의 판매 채널!"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "우리는 인터넷을 통해 직접 서비스를 판매할 수 있는 혁신적인 도구를 개발했습니다."
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "예약 시스템으로 무엇을 얻을 수 있습니까?"

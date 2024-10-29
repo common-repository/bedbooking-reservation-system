@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "Rezervasyon sistemi"
+
+msgid "BBO_2891_type_one"
+msgstr "Arama formu"
+
+msgid "BBO_2891_type_three"
+msgstr "Bir oda"
+
+msgid "BBO_2891_type_two"
+msgstr "Bütün odalar"
+
+msgid "BBO_963_select_room"
+msgstr "Oda seçin"
+
+msgid "BED_2188_add_details"
+msgstr "<a href=\"https://app.bed-booking.com/login\">BedBooking uygulamasında</a> emlak bilgilerinizi girin."
+
+msgid "BED_2188_add_details_body"
+msgstr "Rezervasyon Sistemi <a href=\"https://app.bed-booking.com/login\">BedBooking uygulaması</a> üzerinden ayarlanır."
+
+msgid "BED_2188_add_details_body_2"
+msgstr "Tüm yapmanız gereken, Rezervasyon Sistemi'ni başlatabilmek için fotoğraflar veya oda fiyatları gibi tesis bilgilerinizi eklemek. Aynı zamanda tesisinizin logosunu yükleyebilir ya da Rezervasyon Sistemi'nin ana rengini seçebilirsiniz."
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking - Rezervasyon Sistemi ve Rezervasyon Takvimi"
+
+msgid "BED_2188_block_info"
+msgstr "Rezervasyon Sistemi BedBooking uygulaması üzerinden ayarlanır."
+
+msgid "BED_2188_connect_account"
+msgstr "BedBooking hesabınızı WordPress ile bağlayın."
+
+msgid "BED_2188_correct_title"
+msgstr "Artık web sitenize widget blokları ekleyebilirsiniz!"
+
+msgid "BED_2188_create_account_body"
+msgstr "BedBooking'i kullanmaya başlamak için Android ya da iOS uygulamasını indirin. BedBooking'e aynı zamanda <a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a> adresinden web tarayıcınızla da erişebilirsiniz."
+
+msgid "BED_2188_create_account_title"
+msgstr "Bir BedBooking hesabı oluşturun."
+
+msgid "BED_2188_disconnect_account"
+msgstr "BedBooking hesabının WordPress ile bağlantısını kesin."
+
+msgid "BED_2188_error_no_premium"
+msgstr "Premium paketi uzatmak ve Rezervasyon Sistemi'ne erişim kazanmak için <a href=\"https://panel.bed-booking.com/payment/buy\">BedBooking uygulamasına</a> gidin."
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "Premium paketiniz için daha düşük bir fiyat almak için <span style=\"color: #73B144;\">wordpress5</span> indirim kodunu kullanın!"
+
+msgid "BED_2188_error_outcome"
+msgstr "Rezervasyon Sistemi'ni ayarlamak için <a href=\"https://app.bed-booking.com/login\">BedBooking uygulamasına</a> gidin."
+
+msgid "BED_2188_error_title"
+msgstr "Rezervasyon sistemi mevcut değildir."
+
+msgid "BED_2188_how_to_connect"
+msgstr "BedBooking Rezervasyon Sistemi'ni web sitenizle nasıl entegre edebilirsiniz?"
+
+msgid "BED_2188_login_body"
+msgstr "BedBooking hesabınızı WordPress eklentisiyle bağlamak için aşağıdaki Giriş tuşunu kullanın."
+
+msgid "BED_2188_login_body_2"
+msgstr "Giriş yaptıktan sonra web sitenize Rezervasyon Sistemi widget'larını bloklar halinde kolaylıkla ekleyebileceksiniz."
+
+msgid "BED_2188_login_title"
+msgstr "WordPress'e giriş yapın ve web sitenize bir widget ekleyin."
+
+msgid "BED_2188_logout"
+msgstr "Cikis"
+
+msgid "BED_2188_plugin_description"
+msgstr "BedBooking, telefonunuzu, tabletinizi ya da bilgisayarınızı bir mobil resepsiyon masasına çevirmenizi sağlayan en modern araçtır."
+
+msgid "BED_2188_plugin_description_2"
+msgstr "Rezervasyon Sistemi, hizmetlerinizi doğrudan internet üzerinden satmanıza izin verecek."
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "BedBooking, telefonunuzun, tabletinizin veya bilgisayarınızın mobil Rezervasyon Takviminiz olmasını sağlayan en modern araçtır. Rezervasyon Sistemi, konaklama yerinizi doğrudan İnternet üzerinden satmanıza olanak tanır."
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "Sistemi <b>birkaç dakika</b> içerisinde başlatabilirsiniz."
+
+msgid "BED_2205_store_description"
+msgstr "BedBooking Rezervasyon Sistemi, hizmetlerinizi doğrudan internet üzerinden satmanıza izin veren yenilikçi bir araçtır."
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "Onayla"
+
+msgid "log_in"
+msgstr "Giriş yap"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "Kayan (ekranın bir yerine yerleştirilmiş) - arama formunun konumu sayfada gezinmeye bağlı değildir, her zaman tarayıcı penceresinin alt kenarında bulunur."
+
+msgid "OUT_3983_floating_position_name"
+msgstr "Kayan (ekranın bir yerine yerleştirilmiş)"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "Arama formu yerleştirme türleri"
+
+msgid "OUT_3983_static_position_description"
+msgstr "Sabit (internet sitesinde belirli bir yer) - arama formunun konumu, yapıştırılan kodun sayfa kodundaki konumuna bağlıdır, sayfa içeriğinde kalıcı bir yerdir."
+
+msgid "OUT_3983_static_position_name"
+msgstr "Sabit (internet sitesinde belirli bir yer)"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "Hiçbir <b>komisyon</b> ek  ücreti ödemeden <b>konaklama satabilirsiniz</b>."
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "<b>E-posta</b>, <b>SMS</b>, ya da<b>sosyal medya</b> aracılığıyla paylaşabilirsiniz."
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "Misafirleriniz her zaman <b>her yerde</b>, <b>bir konaklama rezervasyonu yapabilirler</b>."
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "Widget'leri kullanarak kendi web sitenizi Rezervasyon Sistemine <b>bağlayabilirsiniz</b>."
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "Bugün kendi satış kanalınıza sahip olun!"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "Hizmetlerinizi doğrudan İnternet üzerinden satmanıza olanak tanıyan yenilikçi bir araç geliştirdik."
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "Rezervasyon Sistemi ile ne elde edersiniz?"

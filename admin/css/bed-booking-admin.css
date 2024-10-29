@@ -1,0 +1,134 @@
+.bb-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: unset;
+}
+
+.bb-card > h2 {
+    font-size: 16px;
+    text-align: center;
+}
+
+.bb-card > div {
+    font-size: 14px;
+}
+
+.bb-card > p {
+    font-size: 14px;
+}
+
+.bb-grid-wrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+}
+
+.bb-grid-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.bb-header-image {
+    margin-top: 20px;
+    height: 57px;
+    width: 300px;
+    align-self: center;
+}
+
+.bb-info-icon {
+    width: 100px;
+    height: 123px;
+}
+
+.bb-reservation-list-item {
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+.bb-reservation-list {
+    list-style: none;
+    margin-left: 20px;
+    font-size: 14px;
+    text-align: justify;
+    width: calc(100% - 20px);
+    align-self: baseline;
+}
+
+.bb-reservation-list-item::before {
+    content: url('../../images/check_icon.svg');
+    position: absolute;
+    left: -20px;
+}
+
+.bb-login-button {
+    margin-bottom: 7px !important;
+}
+
+.bb-check-big-icon {
+    width:  50px;
+    height: 50px;
+    margin-bottom: 7px;
+}
+
+.bb-accordion {
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    padding-left: 0px;
+}
+
+.bb-accordion-header{
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+.bb-accordion-header > p {
+    font-size: 14px;
+}
+
+.bb-panel {
+    padding: 0 15px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    margin-left: 38px;
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+}
+
+.bb-count-element {
+    width: 36px;
+    height: 36px;
+    margin-right: 10px;
+}
+
+.bb-color {
+    color: #2271b1;
+}
+
+.bb-qr-codes {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    min-width: 450px;
+}
+
+.bb-icon-rotate {
+    transform: rotate(-180deg);
+}
+
+.bb-icon-translation {
+    transition: transform 0.2s;
+}

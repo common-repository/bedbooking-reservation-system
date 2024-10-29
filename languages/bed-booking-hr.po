@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "Sustav rezervacije"
+
+msgid "BBO_2891_type_one"
+msgstr "Obrazac pretraživanja"
+
+msgid "BBO_2891_type_three"
+msgstr "Jedna soba"
+
+msgid "BBO_2891_type_two"
+msgstr "Sve sobe"
+
+msgid "BBO_963_select_room"
+msgstr "Odaberite sobu"
+
+msgid "BED_2188_add_details"
+msgstr "Dodajte detalje svoje nekretnine <a href=\"https://app.bed-booking.com/login\">aplikacija BedBooking</a>."
+
+msgid "BED_2188_add_details_body"
+msgstr "Sustav rezervacija konfigurira se putem <a href=\"https://app.bed-booking.com/login\">aplikacije BedBooking</a> ."
+
+msgid "BED_2188_add_details_body_2"
+msgstr "Sve što trebate učiniti je dodati pojedinosti o svom objektu, kao što su fotografije ili cijene soba, kako biste mogli pokrenuti sustav rezervacije. Također možete prenijeti logotip svog objekta ili odabrati glavnu boju sustava rezervacije."
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking - Rezervacijski sustav i Kalendar rezervacija"
+
+msgid "BED_2188_block_info"
+msgstr "Sustav rezervacija konfigurira se putem aplikacije BedBooking."
+
+msgid "BED_2188_connect_account"
+msgstr "Povežite svoj BedBooking račun s WordPressom."
+
+msgid "BED_2188_correct_title"
+msgstr "Sada možete dodati widget blokove na svoje web-mjesto!"
+
+msgid "BED_2188_create_account_body"
+msgstr "Kako biste počeli koristiti BedBooking, preuzmite aplikaciju za Android ili iOS. BedBooking je također dostupan u vašem web pregledniku na adresi <a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a>."
+
+msgid "BED_2188_create_account_title"
+msgstr "Stvorite BedBooking račun."
+
+msgid "BED_2188_disconnect_account"
+msgstr "Odspojite BedBooking račun s WordPress-om."
+
+msgid "BED_2188_error_no_premium"
+msgstr "Idite na <a href=\"https://panel.bed-booking.com/payment/buy\">aplikaciju BedBooking</a> da biste proširili Premium paket i dobili pristup sustavu rezervacija."
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "Upotrijebite <span style=\"color: #73B144;\">wordpress5</span> kod za popust da biste dobili nižu cijenu za svoj Premium paket!"
+
+msgid "BED_2188_error_outcome"
+msgstr "Idite na <a href=\"https://app.bed-booking.com/login\">aplikaciju BedBooking</a> da biste konfigurirali sustav rezervacija."
+
+msgid "BED_2188_error_title"
+msgstr "Sustav rezervacija nije dostupan."
+
+msgid "BED_2188_how_to_connect"
+msgstr "Kako integrirati sustav rezervacija BedBooking s vašim web-mjestom?"
+
+msgid "BED_2188_login_body"
+msgstr "Upotrijebite gumb Prijava u nastavku kako biste povezali svoj BedBooking račun s WordPress dodatkom."
+
+msgid "BED_2188_login_body_2"
+msgstr "Nakon što se prijavite, moći ćete na vrlo intuitivan način dodati widgete sustava rezervacije na svoje web-mjesto kao blokove."
+
+msgid "BED_2188_login_title"
+msgstr "Prijavite se na WordPress i dodajte widget na svoje web-mjesto."
+
+msgid "BED_2188_logout"
+msgstr "Odjavi se"
+
+msgid "BED_2188_plugin_description"
+msgstr "BedBooking je najmoderniji alat koji omogućuje da vaš telefon, tablet ili računalo postanu vaša mobilna recepcija."
+
+msgid "BED_2188_plugin_description_2"
+msgstr "Sustav rezervacija omogućit će vam da svoje usluge prodajete izravno putem interneta."
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "BedBooking je najmoderniji alat koji omogućuje da vaš telefon, tablet ili računalo postanu vaš mobilni Kalendar Rezervacija. Rezervacijski Sustav će vam omogućiti da svoj smještaj prodate izravno putem interneta."
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "Sustav možete pokrenuti za nekoliko minuta."
+
+msgid "BED_2205_store_description"
+msgstr "Sustav rezervacija BedBooking inovativan je alat koji vam omogućuje da svoje usluge prodajete izravno putem interneta."
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "Potvrdite"
+
+msgid "log_in"
+msgstr "Prijavite se"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "Plutajuće (smješteno na jednom mjestu na zaslonu) – položaj obrasca pretraživanja ne ovisi o pomicanju po stranici, uvijek je smješteno na donjem rubu prozora pretraživača."
+
+msgid "OUT_3983_floating_position_name"
+msgstr "Plutajuće (smješteno na jednom mjestu na zaslonu)"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "Vrste smještaja obrasca pretraživanja"
+
+msgid "OUT_3983_static_position_description"
+msgstr "Statično (određeno mjesto na web-stranici) – položaj obrasca pretraživanja ovisi o mjestu zalijepljenog koda na kodu stranice, to je stalno mjesto na sadržaju stranice."
+
+msgid "OUT_3983_static_position_name"
+msgstr "Statično (određeno mjesto na web-stranici)"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "Možete prodati smještaj bez provizije i dodatnih troškova."
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "Možete ga podijeliti putem e-pošte, SMS-a ili društvenih mreža."
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "Vaši gosti mogu rezervirati boravak bilo kada i bilo gdje."
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "Pomoću widgeta možete povezati vlastitu web stranicu s Rezervacijskim sustavom."
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "Vaš vlastiti prodajni kanal već danas!"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "Razvili smo inovativni alat koji vam omogućuje da svoje usluge prodajete izravno putem interneta."
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "Što dobivate s Rezervacijskim sustavom?"

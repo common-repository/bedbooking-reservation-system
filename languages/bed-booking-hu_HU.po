@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "Foglalási rendszer"
+
+msgid "BBO_2891_type_one"
+msgstr "Keresés"
+
+msgid "BBO_2891_type_three"
+msgstr "Egy szoba"
+
+msgid "BBO_2891_type_two"
+msgstr "Minden szoba"
+
+msgid "BBO_963_select_room"
+msgstr "Válassza ki a szobát"
+
+msgid "BED_2188_add_details"
+msgstr "Tegye fel ingatlanja adatait a <a href=\"https://app.bed-booking.com/login\">BedBooking alkalmazásba</a>."
+
+msgid "BED_2188_add_details_body"
+msgstr "A foglalási rendszer a <a href=\"https://app.bed-booking.com/login\">Bedbooking alkalmazással</a> van konfigurálva."
+
+msgid "BED_2188_add_details_body_2"
+msgstr "Nem kell mást tennie, mint megadni a létesítmény adatait, például fotókat vagy szobák árait, és indíthatja a foglalási rendszert. Feltöltheti a létesítmény logóját is, vagy kiválaszthatja a foglalási rendszer alapszínét."
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking – Foglalási rendszer és Foglalási naptár"
+
+msgid "BED_2188_block_info"
+msgstr "A foglalási rendszer a Bedbooking alkalmazással van konfigurálva."
+
+msgid "BED_2188_connect_account"
+msgstr "Csatlakoztassa BedBooking-fiókját a WordPresshez."
+
+msgid "BED_2188_correct_title"
+msgstr "Most már widgetblokkokat tehet weboldalára!"
+
+msgid "BED_2188_create_account_body"
+msgstr "A Bedbooking használatához töltse le az alkalmazást Androidra vagy iOS-re. A BedBooking elérhető böngészőjéből is a <a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a> címen."
+
+msgid "BED_2188_create_account_title"
+msgstr "Készítsen egy BedBooking fiókot."
+
+msgid "BED_2188_disconnect_account"
+msgstr "Válassza le a BedBooking-fiókot a WordPress-ről."
+
+msgid "BED_2188_error_no_premium"
+msgstr "Menjen a <a href=\"https://panel.bed-booking.com/payment/buy\">BedBooking alkalmazásba</a>, és váltson Prémium csomagra, hogy használhassa a foglalási rendszert."
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "Használja a <span style=\"color: #73B144;\">wordpress5</span> kedvezménykódot, hogy olcsóbban megszerezhesse a Prémium csomagot!"
+
+msgid "BED_2188_error_outcome"
+msgstr "Menjen a <a href=\"https://app.bed-booking.com/login\">BedBooking alkalmazásba</a>, és állítsa be a foglalási rendszert."
+
+msgid "BED_2188_error_title"
+msgstr "A foglalási rendszer nem érhető el."
+
+msgid "BED_2188_how_to_connect"
+msgstr "Hogyan integrálhatja a BedBooking foglalási rendszerét weboldalán?"
+
+msgid "BED_2188_login_body"
+msgstr "Az alábbi Belépés gombbal linkelje a BedBooking fiókját a WordPress bővítményhez."
+
+msgid "BED_2188_login_body_2"
+msgstr "A belépés után a foglalási rendszer widgeteit nagyon intuitív módon, blokkok formájában teheti fel  a weboldalára."
+
+msgid "BED_2188_login_title"
+msgstr "Lépjen be a WordPressbe, és tegyen egy alkalmazást a weboldalára."
+
+msgid "BED_2188_logout"
+msgstr "Kijelentkezés"
+
+msgid "BED_2188_plugin_description"
+msgstr "A BedBooking a legmodernebb eszköz, amivel telefonja, táblagépe vagy számítógépe mobil recepcióként szolgálhat."
+
+msgid "BED_2188_plugin_description_2"
+msgstr "A foglalási rendszerrel közvetlenül az interneten értékesítheti minden szolgáltatását."
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "A BedBooking a legmodernebb eszköz, amely lehetővé teszi, hogy telefonja, táblagépe vagy számítógépe mobil foglalási naptárává váljon. A foglalási rendszer lehetővé teszi, hogy szállását közvetlenül az interneten keresztül értékesítse."
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "<b>Néhány perc</b> alatt elindíthatha a rendszert."
+
+msgid "BED_2205_store_description"
+msgstr "A Bedbooking foglalási rendszere egy innovatív eszköz, amivel közvetlenül az interneten értékesítheti minden szolgáltatását."
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "Megerősítés"
+
+msgid "log_in"
+msgstr "Jelentkezz be"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "Lebegő (egy adott helyen a képernyőn) - a kereső pozíciója nem függ az oldalon való görgetéstől, mindig a böngészőablak alsó szélén található."
+
+msgid "OUT_3983_floating_position_name"
+msgstr "Lebegő (egy adott helyen a képernyőn)"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "Keresési űrlap elhelyezési típusa"
+
+msgid "OUT_3983_static_position_description"
+msgstr "Statikus (egy adott helyen a weboldalon) - a kereső pozíciója az oldal kódjába másolt kód helyétől függ, egy állandó helyen található az oldal tartalmai közt."
+
+msgid "OUT_3983_static_position_name"
+msgstr "Statikus (egy adott helyen a weboldalon)"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "<b>Jutalék</b> vagy <b>egyéb kiadások nélkül</b> értékesítheti szálláshelyeit."
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "Megoszthatja <b>mailben</b>, <b>SMS-ben</b> vagy <b>közösségi hálózaton</b>."
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "A vendégei <b>bármikor</b>, <b>bárhol</b> foglalhatnak szállást."
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "Csatolhatja saját weboldalát is a Foglalási rendszerhez a <b>widgetek</b> segítségével."
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "A saját értékesítési csatornái, még ma!"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "Egy innovatív eszközt alkottunk, amivel közvetlenül értékesítheti szolgáltatásait az interneten."
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "Mit nyer a Foglalási rendszerrel?"

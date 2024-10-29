@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "Система бронирования"
+
+msgid "BBO_2891_type_one"
+msgstr "Поиск"
+
+msgid "BBO_2891_type_three"
+msgstr "Одна комната"
+
+msgid "BBO_2891_type_two"
+msgstr "Все комнаты"
+
+msgid "BBO_963_select_room"
+msgstr "Выберите комнату"
+
+msgid "BED_2188_add_details"
+msgstr "Добавьте сведения о своем объекте в <a href=\"https://app.bed-booking.com/login\">приложении BedBooking</a>."
+
+msgid "BED_2188_add_details_body"
+msgstr "Система бронирования настраивается через <a href=\"https://app.bed-booking.com/login\">приложение BedBooking </a>."
+
+msgid "BED_2188_add_details_body_2"
+msgstr "Чтобы запустить систему бронирования, вам всего лишь нужно добавить сведения о своем объекте, такие как фотографии или цены номеров. Вы также можете загрузить логотип своего объекта или выбрать основной цвет системы бронирования."
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking - Система бронирования и Календарь бронирования"
+
+msgid "BED_2188_block_info"
+msgstr "Система бронирования настраивается через приложение BedBooking."
+
+msgid "BED_2188_connect_account"
+msgstr "Подключите свою учетную запись BedBooking к WordPress."
+
+msgid "BED_2188_correct_title"
+msgstr "Теперь вы можете добавлять блоки виджетов на свой веб-сайт!"
+
+msgid "BED_2188_create_account_body"
+msgstr "Чтобы начать использовать BedBooking, загрузите приложение для Android или iOS. BedBooking также доступна в браузере по адресу <a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a>."
+
+msgid "BED_2188_create_account_title"
+msgstr "Создайте аккаунт BedBooking."
+
+msgid "BED_2188_disconnect_account"
+msgstr "Отключите учетную запись BedBooking от WordPress."
+
+msgid "BED_2188_error_no_premium"
+msgstr "Перейдите в <a href=\"https://panel.bed-booking.com/payment/buy\">приложение BedBooking</a>, чтобы продлить Премиум-пакет и получить доступ к системе бронирования."
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "Используйте код скидки <span style=\"color: #73B144;\">wordpress5</span>, чтобы получить Премиум-пакет по сниженной цене!"
+
+msgid "BED_2188_error_outcome"
+msgstr "Перейдите в <a href=\"https://app.bed-booking.com/login\">приложение BedBooking</a>, чтобы настроить систему бронирования."
+
+msgid "BED_2188_error_title"
+msgstr "Система бронирования недоступна."
+
+msgid "BED_2188_how_to_connect"
+msgstr "Как интегрировать систему бронирования BedBooking в ваш веб-сайт?"
+
+msgid "BED_2188_login_body"
+msgstr "Используйте кнопку \"Войти\" ниже, чтобы связать свой аккаунт BedBooking с плагином WordPress."
+
+msgid "BED_2188_login_body_2"
+msgstr "После входа вы сможете полностью интуитивно добавить на свой веб-сайт виджеты системы бронирования в виде блоков."
+
+msgid "BED_2188_login_title"
+msgstr "Войдите в WordPress и добавьте виджет на свой веб-сайт."
+
+msgid "BED_2188_logout"
+msgstr "Выйти"
+
+msgid "BED_2188_plugin_description"
+msgstr "BedBooking — это самый современный инструмент, позволяющий превратить ваш телефон, планшет или компьютер в мобильную стойку регистрации."
+
+msgid "BED_2188_plugin_description_2"
+msgstr "Система бронирования позволит вам продавать свои услуги напрямую через интернет."
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "BedBooking — это самый современный инструмент, позволяющий превратить ваш телефон, планшет или компьютер в мобильную стойку регистрации. Система бронирования позволит вам продавать свои услуги напрямую через интернет."
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "Вы можете запустить Систему резервирования <b>за несколько минут</b>."
+
+msgid "BED_2205_store_description"
+msgstr "Система бронирования BedBooking — это инновационный инструмент, позволяющий вам продавать свои услуги напрямую через интернет."
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "Подтвердить"
+
+msgid "log_in"
+msgstr "Войти"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "Плавающее (расположение в одном месте на экране) — положение формы поиска не зависит от прокрутки страницы, она всегда находится в нижней части окна браузера."
+
+msgid "OUT_3983_floating_position_name"
+msgstr "Плавающее (расположение в одном месте экрана)"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "Типы размещения формы поиска"
+
+msgid "OUT_3983_static_position_description"
+msgstr "Статичное (конкретное место на веб-сайте) — положение формы поиска зависит от расположения вставленного кода в коде страницы. Это постоянное место в содержимом страницы."
+
+msgid "OUT_3983_static_position_name"
+msgstr "Статичное (конкретное место на веб-сайте)"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "Вы можете продавать объекты размещения <b>без комиссии</b> и <b>дополнительных трат</b>."
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "Вы можете рассказать о ней <b>по электронной почте</b>, <b>СМС</b> или  <b>через социальные сети</b>."
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "Ваши гости могут забронировать проживание <b>в любое время</b>, <b>из любого места</b>."
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "Вы можете подключить собственный сайт к Системе резервирования с помощью <b>виджетов</b>."
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "Ваш собственный канал продаж уже сегодня!"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "Мы разработали инновационный инструмент, который позволяет вам продавать свои услуги непосредственно через интернет."
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "Какие преимущества вы получаете благодаря Системе резервирования?"

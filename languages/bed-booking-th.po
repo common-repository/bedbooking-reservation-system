@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "ระบบการจอง"
+
+msgid "BBO_2891_type_one"
+msgstr "แบบฟอร์มการค้นหา"
+
+msgid "BBO_2891_type_three"
+msgstr "หนึ่งห้อง"
+
+msgid "BBO_2891_type_two"
+msgstr "ทุกห้อง"
+
+msgid "BBO_963_select_room"
+msgstr "เลือกห้อง"
+
+msgid "BED_2188_add_details"
+msgstr "เพิ่มรายละเอียดที่พักของคุณใน <a href=\"https://app.bed-booking.com/login\">แอปพลิเคชัน BedBooking</a>"
+
+msgid "BED_2188_add_details_body"
+msgstr "ระบบการจองได้รับการกำหนดค่าผ่าน <a href=\"https://app.bed-booking.com/login\">แอปพลิเคชัน BedBooking</a>"
+
+msgid "BED_2188_add_details_body_2"
+msgstr "สิ่งที่คุณต้องทำคือเพิ่มรายละเอียดสิ่งอำนวยความสะดวกของคุณ เช่น ภาพถ่ายหรือราคาห้องพัก เพื่อให้สามารถเปิดระบบการจองได้ คุณยังสามารถอัปโหลดโลโก้ของสถานที่ของคุณหรือเลือกสีหลักของระบบการจอง"
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking ระบบการจอง"
+
+msgid "BED_2188_block_info"
+msgstr "ระบบการจองได้รับการกำหนดค่าผ่านแอปพลิเคชัน BedBooking"
+
+msgid "BED_2188_connect_account"
+msgstr "เชื่อมต่อบัญชี BedBooking ของคุณกับ WordPress"
+
+msgid "BED_2188_correct_title"
+msgstr "คุณสามารถเพิ่มบล็อกวิดเจ็ตในเว็บไซต์ของคุณได้แล้ว!"
+
+msgid "BED_2188_create_account_body"
+msgstr "หากต้องการเริ่มใช้ BedBooking ให้ดาวน์โหลดแอปพลิเคชันสำหรับ Android หรือ iOS BedBooking มีให้บริการในเว็บเบราว์เซอร์ของคุณที่ <a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a>"
+
+msgid "BED_2188_create_account_title"
+msgstr "สร้างบัญชี BedBooking"
+
+msgid "BED_2188_disconnect_account"
+msgstr "ยกเลิกการเชื่อมต่อบัญชี BedBooking จาก WordPress"
+
+msgid "BED_2188_error_no_premium"
+msgstr "ไป <a href=\"https://panel.bed-booking.com/payment/buy\">ที่แอปพลิเคชัน BedBooking</a> เพื่อขยายแพ็คเกจพรีเมียมและเข้าใช้ระบบการจอง"
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "ใช้รหัสส่วนลด <span style=\"color: #73B144;\">wordpress5</span> เพื่อรับส่วนลดแพ็คเกจพรีเมียมของคุณ!"
+
+msgid "BED_2188_error_outcome"
+msgstr "ไป <a href=\"https://app.bed-booking.com/login\">ที่แอปพลิเคชัน BedBooking</a> เพื่อกำหนดค่าระบบการจอง"
+
+msgid "BED_2188_error_title"
+msgstr "ระบบการจองไม่พร้อมใช้งาน"
+
+msgid "BED_2188_how_to_connect"
+msgstr "จะรวมระบบการจอง BedBooking เข้ากับเว็บไซต์ของคุณได้อย่างไร?"
+
+msgid "BED_2188_login_body"
+msgstr "ใช้ปุ่มเข้าสู่ระบบด้านล่างเพื่อเชื่อมโยงบัญชี BedBooking ของคุณกับปลั๊กอิน WordPress"
+
+msgid "BED_2188_login_body_2"
+msgstr "หลังจากเข้าสู่ระบบ คุณจะสามารถเพิ่มวิดเจ็ตระบบการจองลงในเว็บไซต์ของคุณในลักษณะบล็อกได้อย่างง่ายดาย"
+
+msgid "BED_2188_login_title"
+msgstr "เข้าสู่ระบบ WordPress และเพิ่มวิดเจ็ตในเว็บไซต์ของคุณ"
+
+msgid "BED_2188_logout"
+msgstr "ออกจากระบบ"
+
+msgid "BED_2188_plugin_description"
+msgstr "BedBooking เป็นเครื่องมือที่ทันสมัยที่สุดที่ช่วยให้โทรศัพท์ แท็บเล็ต หรือคอมพิวเตอร์ของคุณกลายเป็นโต๊ะประชาสัมพันธ์บนมือถือของคุณ"
+
+msgid "BED_2188_plugin_description_2"
+msgstr "ระบบการจองจะอนุญาตให้คุณขายบริการของคุณโดยตรงผ่านทางอินเทอร์เน็ต"
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "BedBooking เป็นเครื่องมือที่ทันสมัยที่สุดที่ช่วยให้โทรศัพท์ แท็บเล็ต หรือคอมพิวเตอร์ของคุณกลายเป็นโต๊ะประชาสัมพันธ์บนมือถือของคุณ ระบบการจองจะอนุญาตให้คุณขายบริการของคุณโดยตรงผ่านทางอินเทอร์เน็ต"
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "คุณสามารถเริ่มระบบได้ภายในไม่กี่นาที"
+
+msgid "BED_2205_store_description"
+msgstr "ระบบการสำรองที่พักแบบ BedBooking เป็นเครื่องมือที่เป็นนวัตกรรมใหม่ที่ช่วยให้คุณสามารถขายบริการของคุณได้โดยตรงผ่านทางอินเทอร์เน็ต"
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "ยืนยัน"
+
+msgid "log_in"
+msgstr "เข้าสู่ระบบ"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "ลอยตัว (อยู่ในที่เดียวบนหน้าจอ) - ตำแหน่งของแบบฟอร์มการค้นหาไม่ได้ขึ้นอยู่กับการเลื่อนดูหน้า แต่จะอยู่ที่ขอบด้านล่างของหน้าต่างเบราว์เซอร์เสมอ"
+
+msgid "OUT_3983_floating_position_name"
+msgstr "ลอยตัว (อยู่ในที่เดียวบนหน้าจอ)"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "ประเภทของตำแหน่งแบบฟอร์มการค้นหา"
+
+msgid "OUT_3983_static_position_description"
+msgstr "คงที่ (เฉพาะที่หนึ่งเว็บไซต์) - ตำแหน่งของแบบฟอร์มการค้นหาขึ้นอยู่กับตำแหน่งของโค้ดที่วางในโค้ดของเพจ ซึ่งเป็นตำแหน่งถาวรในเนื้อหาของหน้า"
+
+msgid "OUT_3983_static_position_name"
+msgstr "คงที่ (เฉพาะสถานที่บนเว็บไซต์)"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "คุณสามารถขายที่พักโดยไม่มีค่าคอมมิชชั่นหรือค่าใช้จ่ายเพิ่มเติม"
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "คุณสามารถแชร์ผ่านอีเมล SMS หรือโซเชียลมีเดีย"
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "แขกของคุณสามารถจองการเข้าพักได้ทุกที่ทุกเวลา"
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "คุณสามารถเชื่อมต่อเว็บไซต์ของคุณเองกับระบบการจองโดยใช้วิดเจ็ต"
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "คุณจะมีช่องทางการขายของคุณเองในวันนี้!"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "เราได้พัฒนาเครื่องมืออันเป็นนวัตกรรมใหม่ที่จะช่วยให้คุณสามารถขายบริการของคุณผ่านอินเทอร์เน็ตได้โดยตรง"
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "คุณจะได้อะไรจากระบบการจอง"

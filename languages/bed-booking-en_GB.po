@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "Reservation system"
+
+msgid "BBO_2891_type_one"
+msgstr "Search form"
+
+msgid "BBO_2891_type_three"
+msgstr "One room"
+
+msgid "BBO_2891_type_two"
+msgstr "All rooms"
+
+msgid "BBO_963_select_room"
+msgstr "Select the room"
+
+msgid "BED_2188_add_details"
+msgstr "Add your property details in <a href=\"https://app.bed-booking.com/login\">the BedBooking application</a>."
+
+msgid "BED_2188_add_details_body"
+msgstr "The Reservation System is configured via <a href=\"https://app.bed-booking.com/login\">the BedBooking application</a> ."
+
+msgid "BED_2188_add_details_body_2"
+msgstr "All you need to do is to add details of your facility, such as photos or room prices, to be able to launch the Reservation System. You can also upload the logo of your facility or choose the main color of the Reservation System."
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking - Reservation System and Booking Calendar"
+
+msgid "BED_2188_block_info"
+msgstr "The Reservation System is configured via the BedBooking application."
+
+msgid "BED_2188_connect_account"
+msgstr "Connect your BedBooking account with WordPress."
+
+msgid "BED_2188_correct_title"
+msgstr "You can now add widget blocks to your website!"
+
+msgid "BED_2188_create_account_body"
+msgstr "To start using BedBooking, download the application for Android or iOS. BedBooking is also available in your web browser at <a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a>."
+
+msgid "BED_2188_create_account_title"
+msgstr "Create a BedBooking account."
+
+msgid "BED_2188_disconnect_account"
+msgstr "Disconnect the BedBooking account from WordPress."
+
+msgid "BED_2188_error_no_premium"
+msgstr "Go to <a href=\"https://panel.bed-booking.com/payment/buy\">the BedBooking application</a> to extend the Premium package and gain access to the Reservation System."
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "Use the <span style=\"color: #73B144;\">wordpress5</span> discount code to get a lower price for your Premium package!"
+
+msgid "BED_2188_error_outcome"
+msgstr "Go to <a href=\"https://app.bed-booking.com/login\">the BedBooking application</a> to configure the Reservation System."
+
+msgid "BED_2188_error_title"
+msgstr "The Reservation system is not available."
+
+msgid "BED_2188_how_to_connect"
+msgstr "How to integrate the BedBooking Reservation System with your website?"
+
+msgid "BED_2188_login_body"
+msgstr "Use the Login button below to link your BedBooking account with the WordPress plugin."
+
+msgid "BED_2188_login_body_2"
+msgstr "After logging in, you will be able to add the Reservation System widgets to your website as blocks in a very intuitive way."
+
+msgid "BED_2188_login_title"
+msgstr "Log in to WordPress and add a widget to your website."
+
+msgid "BED_2188_logout"
+msgstr "Logout"
+
+msgid "BED_2188_plugin_description"
+msgstr "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile reception desk."
+
+msgid "BED_2188_plugin_description_2"
+msgstr "The Reservation System will allow you to sell your services directly over the Internet."
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "You can start the System in <b>few minutes</b>."
+
+msgid "BED_2205_store_description"
+msgstr "The BedBooking Reservation System is an innovative tool that allows you to sell your services directly over the Internet."
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "Confirm"
+
+msgid "log_in"
+msgstr "Log in"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "Floating (situated in one place on the screen) - the position of the search form does not depend on scrolling through the page, it is always located at the bottom edge of the browser window."
+
+msgid "OUT_3983_floating_position_name"
+msgstr "Floating (situated in one place on the screen)"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "Types of search form placement"
+
+msgid "OUT_3983_static_position_description"
+msgstr "Static (specific place one the website) - the position of the search form depends on the location of the pasted code in the page code, it is a permanent place in the page content."
+
+msgid "OUT_3983_static_position_name"
+msgstr "Static (specific place on the website)"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "You can sell accommodation with <b>no commission</b> or <b>additional costs</b>."
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "You can share it via <b>email</b>, <b>SMS</b> or <b>social media</b>."
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "Your guests can book a stay <b>anytime</b>, <b>anywhere</b>."
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "You can connect your own website to the Reservation System using the <b>widgets</b>."
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "Your own sales channel today!"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "We have developed an innovative tool that allows you to sell your services directly via the Internet."
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "What do you get with the Reservation System?"

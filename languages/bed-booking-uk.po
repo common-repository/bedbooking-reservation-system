@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "Система бронювання"
+
+msgid "BBO_2891_type_one"
+msgstr "Форма пошуку"
+
+msgid "BBO_2891_type_three"
+msgstr "Одна кімната"
+
+msgid "BBO_2891_type_two"
+msgstr "Усі номери"
+
+msgid "BBO_963_select_room"
+msgstr "Виберіть номер"
+
+msgid "BED_2188_add_details"
+msgstr "Додайте деталі вашого закладу в <a href=\"https://app.bed-booking.com/login\">застосунку BedBooking</a>."
+
+msgid "BED_2188_add_details_body"
+msgstr "Система бронювання конфігурується через  <a href=\"https://app.bed-booking.com/login\">застосунок BedBooking</a>."
+
+msgid "BED_2188_add_details_body_2"
+msgstr "Все, що вам потрібно зробити - це додати деталі вашого закладу, такі як фото або ціни номерів, щоб могти запустити Систему бронювання. Ви так само можете завантажити логотип вашого закладу або обрати основний колір Системи бронювання."
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking - Система бронювання та Календар бронювання"
+
+msgid "BED_2188_block_info"
+msgstr "Система бронювання конфігурується через  застосунок BedBooking."
+
+msgid "BED_2188_connect_account"
+msgstr "Підключіть свій обліковий запис BedBooking до WordPress."
+
+msgid "BED_2188_correct_title"
+msgstr "Тепер ви можете додавати блоки віджетів до вашого сайту!"
+
+msgid "BED_2188_create_account_body"
+msgstr "Для того, щоб почати користуватись BedBooking, завантажте застосунок для Android або iOS. BedBooking так само доступний у вашому браузері на <a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a>."
+
+msgid "BED_2188_create_account_title"
+msgstr "Створіть обліковий запис BedBooking."
+
+msgid "BED_2188_disconnect_account"
+msgstr "Від’єднайте обліковий запис BedBooking від WordPress."
+
+msgid "BED_2188_error_no_premium"
+msgstr "Перейдіть до <a href=\"https://panel.bed-booking.com/payment/buy\">застосунку BedBooking</a>, щоб розширити Преміум пакет та отримати доступ до Системи бронювання."
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "Використовуйте код на знижку <span style=\"color: #73B144;\">wordpress5</span>, щоб отримати нижчу ціну на свій Преміум пакет!"
+
+msgid "BED_2188_error_outcome"
+msgstr "Перейдіть до <a href=\"https://app.bed-booking.com/login\">застосунку BedBooking</a>, щоб конфігурувати Систему бронювання."
+
+msgid "BED_2188_error_title"
+msgstr "Система бронювання недоступна."
+
+msgid "BED_2188_how_to_connect"
+msgstr "Як інтеґрувати Систему Бронювання BedBooking у ваш сайт?"
+
+msgid "BED_2188_login_body"
+msgstr "Використовуйте кнопку Входу нижче, щоб пов'язати ваш обліковий запис BedBooking з плаґіном WordPress."
+
+msgid "BED_2188_login_body_2"
+msgstr "Після входу, ви зможете додавати віджети Системи бронювання до вашого сайту як блоки, у дуже інтуїтивний спосіб."
+
+msgid "BED_2188_login_title"
+msgstr "Увійдіть до WordPress та додайте віджет до вашого сайту."
+
+msgid "BED_2188_logout"
+msgstr "Вийти"
+
+msgid "BED_2188_plugin_description"
+msgstr "BedBooking є найбільш сучасним інструментом, який дозволяє вашому телефону, планшету або комп'ютеру стати вашою мобільною приймальнею."
+
+msgid "BED_2188_plugin_description_2"
+msgstr "Система бронювання дозволить вам продавати ваші послуги безпосередньо в інтернеті."
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "BedBooking – це найсучасніший інструмент, який дозволяє вашому телефону, планшету або комп’ютеру стати вашим мобільним календарем бронювання. Система бронювання дозволить вам продавати житло безпосередньо через Інтернет."
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "Ви можете запустити Систему за <b>кілька хвилин</b>."
+
+msgid "BED_2205_store_description"
+msgstr "Система бронювання BedBooking є інноваційним інструментом, який дозволяє вам продавати ваші послуги безпосередньо через інтернет."
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "Підтвердіть"
+
+msgid "log_in"
+msgstr "Увійти"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "Плаваючий (розташовується в одному місці на екрані) - позиція форми пошуку не залежить від прокручування сторінки, вона завжди розташована біля нижнього краю вікна браузера."
+
+msgid "OUT_3983_floating_position_name"
+msgstr "Плаваючий (розташовується в одному місці на екрані)"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "Типи розміщення форми пошуку"
+
+msgid "OUT_3983_static_position_description"
+msgstr "Статичний (конкретне місце на веб-сайті) - позиція форми пошуку залежить від розташування вставленого коду в коді сторінки, це постійне місце у контенті сторінки."
+
+msgid "OUT_3983_static_position_name"
+msgstr "Статичний (конкретне місце на вебсайті)"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "Ви можете продавати проживання <b>без комісії</b> чи <b>додаткових витрат</b>."
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "Ви можете поширювати її через <b>електронну пошту</b>, <b>СМС</b> або <b>соціальні мережі</b>."
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "Ваші гості можуть забронювати проживання <b>будь-коли</b>, <b>будь-де.</b>."
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "Ви можете під'єднати свій сайт до Системи бронювання за допомогою <b>віджетів</b>."
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "Ваш власний канал продажів уже сьогодні!"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "Ми розробили інноваційний інструмент, який дозволяє продавати свої послуги безпосередньо через Інтернет."
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "Що ви отримуєте від Системи бронювання?"

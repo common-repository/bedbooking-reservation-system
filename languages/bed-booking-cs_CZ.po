@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "Rezervační systém"
+
+msgid "BBO_2891_type_one"
+msgstr "Vyhledávací formulář"
+
+msgid "BBO_2891_type_three"
+msgstr "Jeden pokoj"
+
+msgid "BBO_2891_type_two"
+msgstr "Všechny pokoje"
+
+msgid "BBO_963_select_room"
+msgstr "Vyberte pokoj"
+
+msgid "BED_2188_add_details"
+msgstr "Přidejte podrobnosti o své nemovitosti do <a href=\"https://app.bed-booking.com/login\">aplikace BedBooking</a>."
+
+msgid "BED_2188_add_details_body"
+msgstr "Rezervační systém je konfigurován pomocí <a href=\"https://app.bed-booking.com/login\">aplikace BedBooking</a>."
+
+msgid "BED_2188_add_details_body_2"
+msgstr "Vše, co musíte udělat, je přidat podrobnosti o vašem zařízení, jako jsou fotografie nebo ceny pokojů, abyste mohli spustit rezervační systém. Můžete také nahrát logo vašeho zařízení nebo zvolit hlavní barvu rezervačního systému."
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking - Rezervační Systém a Rezervační Kalendář"
+
+msgid "BED_2188_block_info"
+msgstr "Rezervační systém je konfigurován pomocí aplikace BedBooking."
+
+msgid "BED_2188_connect_account"
+msgstr "Propojte svůj účet BedBooking s WordPress."
+
+msgid "BED_2188_correct_title"
+msgstr "Nyní můžete na svou webovou stránku přidávat widgetové bloky!"
+
+msgid "BED_2188_create_account_body"
+msgstr "Abyste mohli začít používat službu BedBooking, stáhněte si aplikaci pro Android nebo iOS. Služba BedBooking je dostupná také pomocí vašeho prohlížeče na adrese <a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a>."
+
+msgid "BED_2188_create_account_title"
+msgstr "Vytvořte si BedBooking účet."
+
+msgid "BED_2188_disconnect_account"
+msgstr "Odpojte účet BedBooking od WordPressu."
+
+msgid "BED_2188_error_no_premium"
+msgstr "Přejděte do <a href=\"https://panel.bed-booking.com/payment/buy\">aplikace BedBooking</a>, abyste prodloužili platnost balíčku Premium a získali přístup do rezervačního systému."
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "Využijte slevový kód <span style=\"color: #73B144;\">wordpress5</span>, abyste snížili cenu svého balíčku Premium!"
+
+msgid "BED_2188_error_outcome"
+msgstr "Přejdete do <a href=\"https://app.bed-booking.com/login\">aplikace BedBooking</a>, abyste nakonfigurovali rezervační systém."
+
+msgid "BED_2188_error_title"
+msgstr "Rezervační systém není dostupný."
+
+msgid "BED_2188_how_to_connect"
+msgstr "Jak integrovat rezervační systém BedBooking s vaší stránkou?"
+
+msgid "BED_2188_login_body"
+msgstr "Použijte tlačítko přihlášení níže, abyste propojili svůj BedBooking účet s daným wordpressovým pluginem."
+
+msgid "BED_2188_login_body_2"
+msgstr "Po přihlášení budete moci velmi intuitivním způsobem přidat widgety rezervačního systému v podobě bloků na svou webovou stránku."
+
+msgid "BED_2188_login_title"
+msgstr "Přihlaste se do WordPressu a přidejte widget na vaši webovou stránku."
+
+msgid "BED_2188_logout"
+msgstr "Odhlásit se"
+
+msgid "BED_2188_plugin_description"
+msgstr "BedBooking je nejmodernější nástroj, který umožňuje vytvořit přenosnou recepci z vašeho telefonu, tabletu nebo počítače."
+
+msgid "BED_2188_plugin_description_2"
+msgstr "Rezervační systém vám umožní nabízet vaše služby přímo přes internet."
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "BedBooking je nejmodernější nástroj, který umožňuje, aby se váš telefon, tablet nebo počítač stal vaším mobilním Rezervačním Kalendářem. Rezervační Systém Vám umožní prodávat Vaše ubytování přímo přes internet."
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "Systém spustíte během <b>několika minut</b>."
+
+msgid "BED_2205_store_description"
+msgstr "Rezervační systém BedBooking je inovativní nástroj, který vám umožňuje nabízet své služby přímo přes internet."
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "Potvrdit"
+
+msgid "log_in"
+msgstr "Přihlásit se"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "Plovoucí (umístěný na jednom místě obrazovky) – pozice vyhledávacího formuláře není závislá na posouvání stránky, formulář je vždy na spodním okraji okna prohlížeče."
+
+msgid "OUT_3983_floating_position_name"
+msgstr "Plovoucí (umístěný na jednom místě obrazovky)"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "Typy umístění vyhledávacího formuláře"
+
+msgid "OUT_3983_static_position_description"
+msgstr "Statický (konkrétní místo na webu) – pozice vyhledávacího formuláře závisí na umístění vloženého kódu uvnitř kódu stránky, bude se jednat o stálé místo uvnitř obsahu stránky."
+
+msgid "OUT_3983_static_position_name"
+msgstr "Statický (konkrétní místo na webu)"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "Ubytování můžete prodávat <b>bez provize</b> a <b>dalších poplatků</b>."
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "Sdílet můžete přes <b>e-mail</b>, <b>SMS</b> nebo <b> sociální sítě </b>."
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "Vaši hosté si můžou zarezervovat pobyt <b>kdykoliv</b>, <b>kdekoliv</b>."
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "Svou vlastní webovou stránku můžete propojit s rezervačním systémem pomocí <b>widgetů</b>."
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "Váš vlastní prodejní kanál ještě dnes!"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "Vyvinuli jsme inovativní nástroj, který vám umožní prodávat služby přímo přes internet."
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "Co získáte s rezervačním systémem?"

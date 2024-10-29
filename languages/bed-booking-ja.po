@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "予約システム"
+
+msgid "BBO_2891_type_one"
+msgstr "検索フォーム"
+
+msgid "BBO_2891_type_three"
+msgstr "ワンルーム"
+
+msgid "BBO_2891_type_two"
+msgstr "全室"
+
+msgid "BBO_963_select_room"
+msgstr "部屋を選択"
+
+msgid "BED_2188_add_details"
+msgstr "<a href=\"https://app.bed-booking.com/login\">BedBookingアプリケーションに</a>プロパティの詳細を追加します。"
+
+msgid "BED_2188_add_details_body"
+msgstr "予約システムは、<a href=\"https://app.bed-booking.com/login\">BedBookingアプリケーション</a>を介して構成されます。"
+
+msgid "BED_2188_add_details_body_2"
+msgstr "予約システムを起動できるようにするには、写真や宿泊料金など、施設の詳細を追加するだけです。施設のロゴをアップロードしたり、予約システムのメインカラーを選択したりすることもできます。"
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking - 予約システムと予約カレンダー"
+
+msgid "BED_2188_block_info"
+msgstr "予約システムは、BedBooking アプリケーション</a>を介して構成されます。"
+
+msgid "BED_2188_connect_account"
+msgstr "BedBookingアカウントをWordPressに接続します。"
+
+msgid "BED_2188_correct_title"
+msgstr "これで、ウィジェットブロックをWebサイトに追加できます。"
+
+msgid "BED_2188_create_account_body"
+msgstr "BedBookingの使用を開始するには、AndroidまたはiOS用のアプリケーションをダウンロードしてください。 BedBookingは、<a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a> のWebブラウザでも利用できます。"
+
+msgid "BED_2188_create_account_title"
+msgstr "BedBookingアカウントを作成します。"
+
+msgid "BED_2188_disconnect_account"
+msgstr "BedBookingアカウントをWordPressから切断します。"
+
+msgid "BED_2188_error_no_premium"
+msgstr "<a href=\"https://panel.bed-booking.com/payment/buy\">BedBookingアプリケーション</a>に移動して、プレミアムパッケージを拡張し、予約システムにアクセスします。"
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "プレミアムパッケージの低価格を取得するには、<span style=\"color: #73B144;\">wordpress5</span> 割引コードを使用してください！"
+
+msgid "BED_2188_error_outcome"
+msgstr "<a href=\"https://app.bed-booking.com/login\">BedBookingアプリケーション</a>に移動して、予約システムを構成します。"
+
+msgid "BED_2188_error_title"
+msgstr "予約システムはご利用いただけません。"
+
+msgid "BED_2188_how_to_connect"
+msgstr "BedBooking予約システムをあなたのウェブサイトと統合する方法は？"
+
+msgid "BED_2188_login_body"
+msgstr "下の[ログイン]ボタンを使用して、BedBookingアカウントをWordPressプラグインにリンクします。"
+
+msgid "BED_2188_login_body_2"
+msgstr "ログイン後、非常に直感的な方法で、予約システムウィジェットをブロックとしてWebサイトに追加できるようになります。"
+
+msgid "BED_2188_login_title"
+msgstr "WordPressにログインし、ウィジェットをWebサイトに追加します。"
+
+msgid "BED_2188_logout"
+msgstr "ログアウト"
+
+msgid "BED_2188_plugin_description"
+msgstr "BedBookingは、携帯電話、タブレット、またはコンピューターをモバイル受付にするための最新のツールです。"
+
+msgid "BED_2188_plugin_description_2"
+msgstr "予約システムを使用すると、インターネットを介してサービスを直接販売できます。"
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "BedBookingは、携帯電話、タブレット、またはコンピューターをモバイル予約カレンダーにするための最新のツールです。予約システムでは、インターネットを介して宿泊施設を直接販売することができます。"
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "数分でシステムを起動できます。"
+
+msgid "BED_2205_store_description"
+msgstr "BedBooking Reservation Systemは、インターネットを介してサービスを直接販売できる革新的なツールです。"
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "確認"
+
+msgid "log_in"
+msgstr "ログインする"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "フローティング（画面上の1つの場所にあります）-検索フォームの位置は、ページのスクロールに依存せず、常にブラウザウィンドウの下端にあります。"
+
+msgid "OUT_3983_floating_position_name"
+msgstr "フローティング（画面上の1か所にあります）"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "検索フォームの配置の種類"
+
+msgid "OUT_3983_static_position_description"
+msgstr "静的（Webサイトの特定の場所）-検索フォームの位置は、ページコード内の貼り付けられたコードの場所によって異なり、ページコンテンツ内の永続的な場所です。"
+
+msgid "OUT_3983_static_position_name"
+msgstr "静的（Webサイト上の特定の場所）"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "あなたは手数料や追加費用なしで宿泊施設を売ることができます。"
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "あなたはそれを電子メール、SMSまたはソーシャルメディアを介して共有することができます。"
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "ゲストはいつでもどこでも滞在を予約できます。"
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "ウィジェットを使用して、自分のWebサイトを予約システムに接続できます。"
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "今日のあなた自身の販売チャネル！"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "インターネットを介して直接サービスを販売できる革新的なツールを開発しました。"
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "予約システムで何が得られますか？"

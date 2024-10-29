@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "Bokningssystem"
+
+msgid "BBO_2891_type_one"
+msgstr "Sökformulär"
+
+msgid "BBO_2891_type_three"
+msgstr "Ett rum"
+
+msgid "BBO_2891_type_two"
+msgstr "Alla rum"
+
+msgid "BBO_963_select_room"
+msgstr "Välj rum"
+
+msgid "BED_2188_add_details"
+msgstr "Lägg till din fastighetsinformation i <a href=\"https://app.bed-booking.com/login\">BedBooking-appen</a>."
+
+msgid "BED_2188_add_details_body"
+msgstr "Bokningssystemet konfigureras via <a href=\"https://app.bed-booking.com/login\">BedBooking-appen</a>."
+
+msgid "BED_2188_add_details_body_2"
+msgstr "Allt du behöver göra är att lägga till detaljer om din anläggning, såsom bilder eller rumspriser, för att kunna starta upp bokningssystemet. Du kan också ladda upp logotypen för din anläggning eller välja huvudfärgen på bokningssystemet."
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking - Bokningssystem och Bokningskalender"
+
+msgid "BED_2188_block_info"
+msgstr "Bokningssystemet konfigureras via BedBooking-appen."
+
+msgid "BED_2188_connect_account"
+msgstr "Anslut ditt BedBooking-konto till WordPress."
+
+msgid "BED_2188_correct_title"
+msgstr "Du kan nu lägga till widgetblock på din webbplats!"
+
+msgid "BED_2188_create_account_body"
+msgstr "För att börja använda BedBooking, ladda ner applikationen för Android eller iOS. BedBooking är också tillgängligt i din webbläsare på <a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a>."
+
+msgid "BED_2188_create_account_title"
+msgstr "Skapa ett BedBooking-konto."
+
+msgid "BED_2188_disconnect_account"
+msgstr "Koppla bort BedBooking-kontot från WordPress."
+
+msgid "BED_2188_error_no_premium"
+msgstr "Gå till <a href=\"https://panel.bed-booking.com/payment/buy\">BedBooking-appen</a> för att utöka till premiumpaketet och få tillgång till bokningssystemet."
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "Använd rabattkoden <span style=\"color: #73B144;\">wordpress5</span> för att få ett lägre pris på ditt premiumpaket!"
+
+msgid "BED_2188_error_outcome"
+msgstr "Gå till <a href=\"https://app.bed-booking.com/login\">BedBooking-appen</a> för att konfigurera bokningssystemet."
+
+msgid "BED_2188_error_title"
+msgstr "Bokningssystemet är inte tillgängligt."
+
+msgid "BED_2188_how_to_connect"
+msgstr "Hur integrerar jag BedBookings bokningssystem med min webbplats?"
+
+msgid "BED_2188_login_body"
+msgstr "Använd inloggningsknappen nedan för att länka ditt BedBooking-konto till WordPress-plugin."
+
+msgid "BED_2188_login_body_2"
+msgstr "Efter att du har loggat in kommer du att kunna lägga till bokningssystemets widgets på din webbplats som ett block på ett mycket intuitivt sätt."
+
+msgid "BED_2188_login_title"
+msgstr "Logga in på WordPress och lägg till en widget på din webbplats."
+
+msgid "BED_2188_logout"
+msgstr "Logga ut"
+
+msgid "BED_2188_plugin_description"
+msgstr "BedBooking är det modernaste verktyget som gör att din telefon, surfplatta eller dator kan bli en mobil receptionsdisk."
+
+msgid "BED_2188_plugin_description_2"
+msgstr "Bokningssystemet låter dig sälja dina tjänster direkt över Internet."
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "BedBooking är det modernaste verktyget som låter din telefon, surfplatta eller dator bli din mobila Bokningskalender. Bokningssystemet gör att du kan sälja ditt boende direkt över Internet."
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "Du kan starta systemet på några <b>få minuter</b>."
+
+msgid "BED_2205_store_description"
+msgstr "BedBookings bokningssystem är ett innovativt verktyg som låter dig sälja dina tjänster direkt över Internet."
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "Bekräfta"
+
+msgid "log_in"
+msgstr "Logga in"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "Flytande (på en plats på skärmen) – sökformulärets placering beror inte på om du rullar på sidan, utan det är alltid placerat i nedre kanten av webbläsarfönstret."
+
+msgid "OUT_3983_floating_position_name"
+msgstr "Flytande (på en plats på skärmen)"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "Typer av placering av sökformulär"
+
+msgid "OUT_3983_static_position_description"
+msgstr "Statiskt (specifik plats på webbplatsen) – sökformulärets placering beror på var koden har klistrats in i sidans kod. Det är en permanent plats i sidoinnehållet."
+
+msgid "OUT_3983_static_position_name"
+msgstr "Statiskt (specifik plats på webbplatsen)"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "Du kan sälja övernattningar <b>utan provision</b> och <b>extra kostnader</b>."
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "Du kan nå ut via <b>e-post</b>, <b>sms</b> eller <b>sociala medier</b>."
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "Dina gäster kan boka en vistelse <b>närsomhelst</b>, <b>varsomhelst</b>."
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "Du kan koppla din egen hemsida till bokningssystemet med hjälp av <b>widgetarna</b>."
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "Din egen säljkanal idag!"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "Vi har utvecklat ett innovativt verktyg som låter dig sälja dina tjänster direkt via internet."
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "Vad får du med bokningssystemet?"

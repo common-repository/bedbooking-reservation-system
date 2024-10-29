@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100 != 11) ? 0 : ((n%10 >= 2 && n%10 <= 4 && (n%100 < 12 || n%100 > 14)) ? 1 : (n%10 == 0 || (n%10 >= 5 && n%10 <=9) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3);\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+msgid "BBO_2891_menu_booking_engine"
+msgstr "Sistem reservasi"
+
+msgid "BBO_2891_type_one"
+msgstr "Formulir pencarian"
+
+msgid "BBO_2891_type_three"
+msgstr "Satu ruangan"
+
+msgid "BBO_2891_type_two"
+msgstr "Semua kamar"
+
+msgid "BBO_963_select_room"
+msgstr "Pilih ruangan"
+
+msgid "BED_2188_add_details"
+msgstr "Tambahkan detail properti Anda di <a href=\"https://app.bed-booking.com/login\">aplikasi BedBooking</a> ."
+
+msgid "BED_2188_add_details_body"
+msgstr "Sistem Reservasi dikonfigurasi melalui <a href=\"https://app.bed-booking.com/login\">aplikasi BedBooking</a> ."
+
+msgid "BED_2188_add_details_body_2"
+msgstr "Anda hanya perlu menambahkan detail fasilitas Anda, seperti foto atau harga kamar, untuk dapat meluncurkan Sistem Reservasi. Anda juga dapat mengunggah logo fasilitas Anda atau memilih warna utama Sistem Reservasi."
+
+msgid "BedBooking - Reservation System and Booking Calendar"
+msgstr "BedBooking - Sistem Reservasi dan Kalender Pemesanan"
+
+msgid "BED_2188_block_info"
+msgstr "Sistem Reservasi dikonfigurasi melalui aplikasi BedBooking."
+
+msgid "BED_2188_connect_account"
+msgstr "Hubungkan akun BedBooking Anda dengan WordPress."
+
+msgid "BED_2188_correct_title"
+msgstr "Anda sekarang dapat menambahkan blok widget ke situs web Anda!"
+
+msgid "BED_2188_create_account_body"
+msgstr "Untuk mulai menggunakan BedBooking, unduh aplikasi untuk Android atau iOS. BedBooking juga tersedia di browser web Anda di <a href=\"https://app.bed-booking.com/login\">www.bed-booking.com</a> ."
+
+msgid "BED_2188_create_account_title"
+msgstr "Buat akun BedBooking."
+
+msgid "BED_2188_disconnect_account"
+msgstr "Putuskan sambungan akun BedBooking dari WordPress."
+
+msgid "BED_2188_error_no_premium"
+msgstr "Buka <a href=\"https://panel.bed-booking.com/payment/buy\">aplikasi BedBooking</a> untuk memperpanjang paket Premium dan mendapatkan akses ke Sistem Reservasi."
+
+msgid "BED_2188_error_no_premium_2"
+msgstr "Gunakan kode diskon <span style=\"color: #73B144;\">wordpress5</span> untuk mendapatkan harga yang lebih rendah untuk paket Premium Anda!"
+
+msgid "BED_2188_error_outcome"
+msgstr "Buka <a href=\"https://app.bed-booking.com/login\">aplikasi BedBooking</a> untuk mengkonfigurasi Sistem Reservasi."
+
+msgid "BED_2188_error_title"
+msgstr "Sistem Reservasi tidak tersedia."
+
+msgid "BED_2188_how_to_connect"
+msgstr "Bagaimana cara mengintegrasikan Sistem Reservasi BedBooking dengan situs web Anda?"
+
+msgid "BED_2188_login_body"
+msgstr "Gunakan tombol Login di bawah ini untuk menautkan akun BedBooking Anda dengan plugin WordPress."
+
+msgid "BED_2188_login_body_2"
+msgstr "Setelah masuk, Anda akan dapat menambahkan widget Sistem Reservasi ke situs web Anda sebagai blok dengan cara yang sangat intuitif."
+
+msgid "BED_2188_login_title"
+msgstr "Masuk ke WordPress dan tambahkan widget ke situs web Anda."
+
+msgid "BED_2188_logout"
+msgstr "Keluar"
+
+msgid "BED_2188_plugin_description"
+msgstr "BedBooking adalah alat paling modern yang memungkinkan ponsel, tablet, atau komputer Anda menjadi meja resepsionis seluler Anda."
+
+msgid "BED_2188_plugin_description_2"
+msgstr "Sistem Reservasi akan memungkinkan Anda untuk menjual layanan Anda secara langsung melalui Internet."
+
+msgid "BedBooking is the most modern tool that allows your phone, tablet or computer to become your mobile Booking Calendar. The Reservation System will allow you to sell your accommodation directly over the Internet."
+msgstr "BedBooking adalah alat paling modern yang memungkinkan ponsel, tablet, atau komputer Anda menjadi Kalender Pemesanan seluler Anda. Sistem Reservasi akan memungkinkan Anda untuk menjual akomodasi Anda secara langsung melalui Internet."
+
+msgid "BED_2188_reservation_system_list_2"
+msgstr "Anda dapat memulai Sistem dalam beberapa menit."
+
+msgid "BED_2205_store_description"
+msgstr "Sistem Reservasi Pemesanan Tempat Tidur adalah alat inovatif yang memungkinkan Anda untuk menjual layanan Anda secara langsung melalui Internet."
+
+# Confirm
+msgid "BKO_1130_confirm"
+msgstr "Konfirmasi"
+
+msgid "log_in"
+msgstr "Gabung"
+
+msgid "OUT_3983_floating_position_description"
+msgstr "Mengambang (terletak di satu tempat di layar) - posisi formulir pencarian tidak bergantung pada pengguliran halaman, selalu terletak di tepi bawah jendela browser."
+
+msgid "OUT_3983_floating_position_name"
+msgstr "Mengambang (terletak di satu tempat di layar)"
+
+msgid "OUT_3983_position_type_setting_title"
+msgstr "Jenis penempatan formulir pencarian"
+
+msgid "OUT_3983_static_position_description"
+msgstr "Statis (tempat tertentu satu situs web) - posisi formulir pencarian tergantung pada lokasi kode yang ditempelkan di kode halaman, itu adalah tempat permanen di konten halaman."
+
+msgid "OUT_3983_static_position_name"
+msgstr "Statis (tempat tertentu di situs web)"
+
+msgid "OUT_4259_reservation_system_list_1"
+msgstr "Anda dapat menjual akomodasi tanpa komisi atau biaya tambahan."
+
+msgid "OUT_4259_reservation_system_list_3"
+msgstr "Anda dapat membagikannya melalui email, SMS, atau media sosial."
+
+msgid "OUT_4259_reservation_system_list_4"
+msgstr "Tamu Anda dapat memesan penginapan kapan saja di mana saja."
+
+msgid "OUT_4259_reservation_system_list_5"
+msgstr "Anda dapat menghubungkan situs web Anda sendiri ke Sistem Reservasi menggunakan widget."
+
+msgid "OUT_4259_reservation_system_text_1"
+msgstr "Saluran penjualan Anda sendiri hari ini!"
+
+msgid "OUT_4259_reservation_system_text_2"
+msgstr "Kami telah mengembangkan alat inovatif yang memungkinkan Anda untuk menjual layanan Anda secara langsung melalui Internet."
+
+msgid "OUT_4259_reservation_system_text_3"
+msgstr "Apa yang Anda dapatkan dengan Sistem Reservasi?"
